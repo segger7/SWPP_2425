@@ -12,4 +12,8 @@ Eine To-Do Liste, die viele verschiedene Aufgabentypen hat und ermöglicht, Ausg
 
 Die Projektideen können geändert werden wie z. B. was hinzufügen oder entfernen davon. Wir können sie auch zusammenfassen, damit das Projekt nicht zu kurz ist.
 
-
+S - das Projekt muss am Ende voll funktionierend und dokumentiert sein, jeder soll ca. gleich viel Arbeit erledigen
+M - nachdem wir uns ein Projekt ausgesucht haben können wir z. B. sagen, wer welche Klasse ausprogrammieren soll
+A - das Projekt ist Pflicht zu machen
+R - kein zu kleines oder zu großes Projekt aussuchen 
+T - ...
