@@ -24,13 +24,36 @@ damit man gesund leben kann und man kann auch noch ein Anmeldefenster mit Passwo
 
 Die Projektideen können geändert werden wie z. B. was hinzufügen oder entfernen davon. Wir können sie auch zusammenfassen, damit das Projekt nicht zu kurz ist.
 
-S - das Projekt muss am Ende voll funktionierend und dokumentiert sein, jeder soll ca. gleich viel Arbeit erledigen
+S (Spezifisch) - das Projekt muss am Ende voll funktionierend und dokumentiert sein, jeder soll ca. gleich viel Arbeit erledigen
 
-M - nachdem wir uns ein Projekt ausgesucht haben können wir z. B. sagen, wer welche Klasse ausprogrammieren soll
+M (Messbar) - nachdem wir uns ein Projekt ausgesucht haben können wir z. B. sagen, wer welche Klasse ausprogrammieren soll
 
-A - das Projekt ist Pflicht zu machen
+A (Attraktiv) - das Projekt ist Pflicht zu machen
 
-R - Das Projekt muss eine angemessene Größe haben, darf aber nicht zu aufwändig sein damit
+R (Realistisch) - Das Projekt muss eine angemessene Größe haben, darf aber nicht zu aufwändig sein damit
 es im Rahmen des Unterrichts schaffbar ist.
 
-T - Das Projekt muss bis zum Ende vom 2. Halbjahr fertiggestellt sein.
+T (Terminiert) - Das Projekt muss bis zum Ende vom 2. Halbjahr fertiggestellt sein.
+
+## Teil 3 - Projektorganisation
+
+Unser Projekt läuft über die Matrix-Projektorganisation, da wir hauptsächlich unsere Routinetätigkeiten
+(Normaler Unterricht) ausführen, und in den APR-Stunden aber fest an dem Projekt arbeiten.
+
+### Projektrollen:
+
+#### Projektauftraggeber:
+
+Der Projektauftraggeber sind die Lehrer, da diese uns den Auftrag gegeben haben ein Projekt zu machen.
+
+#### Projektleiter:
+
+Sam (außer jemand von euch will sein?)
+
+#### Projektmitarbeiter:
+
+Emil, Tobias, Sam
+
+#### Kunde:
+
+Fitness-begeisterte Schüler (! Sollte es das vorgeschlagene Projekt werden)
