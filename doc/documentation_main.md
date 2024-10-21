@@ -58,7 +58,7 @@ Der Projektauftraggeber sind die Lehrer, da diese uns den Auftrag gegeben haben 
 
 #### Projektleiter:
 
-Sam (außer jemand von euch will sein?)
+Sam 
 
 #### Projektmitarbeiter:
 
@@ -66,4 +66,4 @@ Emil, Tobias, Sam
 
 #### Kunde:
 
-Fitness-begeisterte Schüler (! Sollte es das vorgeschlagene Projekt werden)
+Schüler die fitnessbegeistert sind, oder ihren Alltag im generellen besser strukturieren kann.
