@@ -1,4 +1,4 @@
-# Die Hautdokumentation
+# Die Hauptdokumentation
 
 ## Teil 1 - Ideenfindung
 
@@ -20,6 +20,8 @@ Ich würde jetzt vorschlagen das wir eine Kombination aus diesen Sachen machen. 
 der man seinen Trainingsplan wie bei einer Todo-Liste abspeichern kann. Man kann auch Rezepte hinzufügen
 damit man gesund leben kann und man kann auch noch ein Anmeldefenster mit Password dazumachen.
 
+## Teil 2 - Projekt nach dem SMART-Konzept definieren
+
 ### Projekt:
 
 #### Fitness- und Alltagsmanagement App
@@ -28,11 +30,6 @@ Die App bietet verschiedene Funktionalitäten um den Alltag besser zu strukturie
 Einerseits kann man in der App seinen Trainingsplan wie bei einer Todo-Liste abspeichern. Man kann auch Rezepte hinzufügen,
 um das gesunde Leben zu fördern. Die App verfügt noch über
 viele weitere Funktionen wie die Anzeige von Wetter und eine Aufgabenliste.
-
-
-## Teil 2 - Projekt nach dem SMART-Konzept definieren
-
-Die Projektideen können geändert werden wie z. B. was hinzufügen oder entfernen davon. Wir können sie auch zusammenfassen, damit das Projekt nicht zu kurz ist.
 
 S (Spezifisch) - das Projekt muss am Ende voll funktionierend und dokumentiert sein, jeder soll ca. gleich viel Arbeit erledigen
 
