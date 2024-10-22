@@ -63,4 +63,4 @@ Emil, Tobias, Sam
 
 #### Kunde:
 
-Schüler die fitnessbegeistert sind, oder ihren Alltag im generellen besser strukturieren kann.
+Schüler die fitnessbegeistert sind, oder ihren Alltag im generellen besser strukturieren wollen.
