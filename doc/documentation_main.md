@@ -64,3 +64,18 @@ Emil, Tobias, Sam
 #### Kunde:
 
 Schüler die fitnessbegeistert sind, oder ihren Alltag im generellen besser strukturieren wollen.
+
+## Struktur -und Ablaufplanung
+
+### Projektablaufplan
+
+Beim Projektablaufplan haben wir die Arbeitsschritte in eine sinnvolle Reihenfolge gebracht. Wir haben geschätzt, wie lange wir für die Umsetzung brauchen. Für unser Projekt haben wir zum Beispiel "Wetter-API implementieren" und "Login mit Passwort programmieren" geplant. Jede Aufgabe hat eine geschätzte Dauer, und wir haben die Arbeit so organisiert, dass sie in der richtigen Reihenfolge erledigt wird.
+  
+![projektablaufplan](https://github.com/user-attachments/assets/35464632-76d8-4bba-8664-5279a3d2030f)
+
+### Projektstrukturplan
+
+Im Projektstrukturplan haben wir das Projekt in Bereiche wie Anforderungen, Ausprogrammieren und Testen eingeteilt. Das hilft uns, zu wissen welche Arbeitsschritte wir erledigen müssen und den Aufwand besser einzuschätzen. 
+
+![Projekstrukturplan](https://github.com/user-attachments/assets/982d95f9-5416-4103-ab31-f248485f78f1)
+
