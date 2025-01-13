@@ -79,3 +79,20 @@ Im Projektstrukturplan haben wir das Projekt in Bereiche wie Anforderungen, Ausp
 
 ![Projekstrukturplan](https://github.com/user-attachments/assets/982d95f9-5416-4103-ab31-f248485f78f1)
 
+### Projektumfeldanalyse
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+### Risikoanalyse
+
+#### Risikoportfolio
+
+![img_2.png](img_2.png)
+
+#### Risikomatrix
+
+![img_3.png](img_3.png)
+
+![img_4.png](img_4.png)
