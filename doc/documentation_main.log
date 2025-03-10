@@ -1,0 +1,187 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.17)  10 MAR 2025 12:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/43660/Desktop/Schule/3. Klasse/SWPP/SWPP_2425/doc/documentation_main.tex"
+(c:/Users/43660/Desktop/Schule/3. Klasse/SWPP/SWPP_2425/doc/documentation_main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen143
+\l@unhyphenated=\language79
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthography)
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 122.
+))) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box53
+) (documentation_main.aux)
+\openout1 = `documentation_main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen144
+\scratchbox=\box54
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen145
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks21
+) (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\43660\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (documentation_main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `documentation_main.toc'.
+
+ [1
+
+
+{C:/Users/43660/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Kapitel 1.
+[2
+
+] [3]
+<projektablaufplan.jpg, id=14, 1029.24525pt x 428.19975pt>
+File: projektablaufplan.jpg Graphic file (type jpg)
+<use projektablaufplan.jpg>
+Package pdftex.def Info: projektablaufplan.jpg  used on input line 114.
+(pdftex.def)             Requested size: 276.00105pt x 114.82487pt.
+<projektstrukturplan.jpg, id=15, 834.7185pt x 381.8265pt>
+File: projektstrukturplan.jpg Graphic file (type jpg)
+<use projektstrukturplan.jpg>
+Package pdftex.def Info: projektstrukturplan.jpg  used on input line 127.
+(pdftex.def)             Requested size: 276.00105pt x 126.25365pt.
+<img.png, id=16, 679.53876pt x 272.01625pt>
+File: img.png Graphic file (type png)
+<use img.png>
+Package pdftex.def Info: img.png  used on input line 135.
+(pdftex.def)             Requested size: 276.00105pt x 110.48141pt.
+ [4 <./projektablaufplan.jpg> <./projektstrukturplan.jpg>]
+<img_1.png, id=21, 906.38625pt x 471.7625pt>
+File: img_1.png Graphic file (type png)
+<use img_1.png>
+Package pdftex.def Info: img_1.png  used on input line 141.
+(pdftex.def)             Requested size: 276.00105pt x 143.6534pt.
+<img_2.png, id=22, 585.18625pt x 521.95pt>
+File: img_2.png Graphic file (type png)
+<use img_2.png>
+Package pdftex.def Info: img_2.png  used on input line 151.
+(pdftex.def)             Requested size: 276.00105pt x 246.18463pt.
+ [5 <./img.png> <./img_1.png>] [6 <./img_2.png>]
+<img_3.png, id=32, 470.75874pt x 353.32pt>
+File: img_3.png Graphic file (type png)
+<use img_3.png>
+Package pdftex.def Info: img_3.png  used on input line 161.
+(pdftex.def)             Requested size: 276.00105pt x 207.14693pt.
+<img_4.png, id=33, 810.02625pt x 497.86pt>
+File: img_4.png Graphic file (type png)
+<use img_4.png>
+Package pdftex.def Info: img_4.png  used on input line 167.
+(pdftex.def)             Requested size: 276.00105pt x 169.6348pt.
+ [7 <./img_3.png> <./img_4.png>] (documentation_main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2553 strings out of 474485
+ 44914 string characters out of 5743734
+ 1930542 words of memory out of 5000000
+ 24852 multiletter control sequences out of 15000+600000
+ 560799 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,65p,283b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/43660/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/43660/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/43660/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on documentation_main.pdf (7 pages, 443511 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

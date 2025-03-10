@@ -1,0 +1,24 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Die Hauptdokumentation - Sam, Emil, Tobias}{2}{}%
+\contentsline {section}{\numberline {1.1}Teil 1 - Ideenfindung}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}Ideenvorschläge}{2}{}%
+\contentsline {paragraph}{Rezeptverwaltungssystem (Emil)}{2}{}%
+\contentsline {paragraph}{To-Do Liste mit Passwort (Emil)}{2}{}%
+\contentsline {paragraph}{Fitness-App (Sam)}{2}{}%
+\contentsline {paragraph}{Zusammenfassender Vorschlag (Sam)}{2}{}%
+\contentsline {section}{\numberline {1.2}Teil 2 - Projekt nach dem SMART-Konzept definieren}{3}{}%
+\contentsline {subsection}{\numberline {1.2.1}Projekt}{3}{}%
+\contentsline {paragraph}{Fitness- und Alltagsmanagement App}{3}{}%
+\contentsline {section}{\numberline {1.3}Teil 3 - Projektorganisation}{3}{}%
+\contentsline {subsection}{\numberline {1.3.1}Projektrollen}{3}{}%
+\contentsline {paragraph}{Projektauftraggeber}{3}{}%
+\contentsline {paragraph}{Projektleiter}{3}{}%
+\contentsline {paragraph}{Projektmitarbeiter}{3}{}%
+\contentsline {paragraph}{Kunde}{3}{}%
+\contentsline {section}{\numberline {1.4}Struktur- und Ablaufplanung}{4}{}%
+\contentsline {subsection}{\numberline {1.4.1}Projektablaufplan}{4}{}%
+\contentsline {subsection}{\numberline {1.4.2}Projektstrukturplan}{4}{}%
+\contentsline {subsection}{\numberline {1.4.3}Projektumfeldanalyse}{5}{}%
+\contentsline {section}{\numberline {1.5}Risikoanalyse}{6}{}%
+\contentsline {paragraph}{Risikoportfolio}{6}{}%
+\contentsline {paragraph}{Risikomatrix}{7}{}%
